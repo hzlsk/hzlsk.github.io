@@ -40,15 +40,20 @@ nav a {
 
 .welcome-carousel-image1 {
   box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-  background-image: url("../images/hazaltoodler2.png");
+  background-image: url("../images/welcome.jpeg");
 }
 
 .welcome-carousel-image2 {
   box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-  background-image: url("../images/hazaldog5.png");
+  background-image: url("../images/hazaltoodler2.png");
 }
 
 .welcome-carousel-image3 {
+  box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+  background-image: url("../images/hazaldog5.png");
+}
+
+.welcome-carousel-image4 {
   box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
   background-image: url("../images/hazalbike2.png");
 }
